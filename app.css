@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+body {
+    background: url('bg.jpg');
+    background-size: cover;
+  height: 100%;
+  overflow: hidden;
+    }
+
+   
+    
+    .search {
+        background-color: #fff;
+        padding: 4px;
+        border-radius: 10pxs;
+    }
